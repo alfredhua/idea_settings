@@ -22,4 +22,5 @@
   <action id="ExpressionTypeInfo" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="QuickPreview" />
 </keymap>
