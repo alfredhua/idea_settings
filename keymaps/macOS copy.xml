@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -11,16 +12,12 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
   <action id="ExpressionTypeInfo" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
   <action id="QuickPreview" />
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
 </keymap>
