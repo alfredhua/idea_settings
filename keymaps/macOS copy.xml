@@ -13,7 +13,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="ExpressionTypeInfo" />
-  <action id="Go To Tab #1">
+  <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="shift a" />
   </action>
   <action id="NextEditorTab" />
