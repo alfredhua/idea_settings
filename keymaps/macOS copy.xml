@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="Android.Designer.ToggleDeviceOrientation" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
@@ -11,6 +12,10 @@
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="o" />
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="GoToTab1">
@@ -49,6 +54,10 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
   <action id="QuickPreview" />
