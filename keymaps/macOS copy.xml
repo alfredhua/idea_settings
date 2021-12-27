@@ -62,7 +62,13 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="NavBar-cancel">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
   <action id="NextEditorTab" />
+  <action id="PopupMenu-cancel">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="QuickPreview" />
   <action id="ServiceView.GroupByServiceGroups" />
