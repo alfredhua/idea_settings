@@ -5,6 +5,10 @@
   </action>
   <action id="Android.Designer.ToggleDeviceOrientation" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="CloseGotItTooltip">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -21,7 +25,15 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="EscUnfollowUserAction">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
@@ -64,14 +76,20 @@
   </action>
   <action id="NavBar-cancel">
     <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="NextEditorTab" />
   <action id="PopupMenu-cancel">
     <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="QuickPreview" />
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.Package" />
