@@ -5,6 +5,8 @@
   </action>
   <action id="Android.Designer.ToggleDeviceOrientation" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
   <action id="CloseGotItTooltip">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -34,6 +36,7 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="Git.Commit.Stage" />
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
@@ -70,10 +73,15 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NavBar-cancel">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -84,8 +92,21 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="QuickPreview" />
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -93,4 +114,8 @@
   <action id="TodoViewGroupByShowPackages" />
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.Package" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
 </keymap>
