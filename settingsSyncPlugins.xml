@@ -2,6 +2,17 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="AceJump">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="IdeaVIM">
           <value>
             <PluginData>
@@ -23,6 +34,22 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.bigdatatools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.guice">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.markskelton.one-dark-theme">
