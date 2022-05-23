@@ -297,9 +297,7 @@
         </entry>
         <entry key="com.intellij.reactivestreams">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.spring.boot.initializr">
@@ -311,9 +309,7 @@
         </entry>
         <entry key="com.intellij.spring.cloud">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.spring.data">
@@ -332,9 +328,7 @@
         </entry>
         <entry key="com.intellij.spring.messaging">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.spring.security">
@@ -403,7 +397,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
