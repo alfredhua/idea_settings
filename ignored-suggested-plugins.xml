@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.javaee.jpa" />
+      </list>
+    </option>
+  </component>
+</application>
