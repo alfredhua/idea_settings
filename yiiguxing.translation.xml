@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="customize" />
+      <item value="customize Bean Factory" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1636976295151" />
+  </component>
+  <component name="Settings">
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="555a7d7423676276" />
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
