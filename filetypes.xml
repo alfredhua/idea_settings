@@ -4,9 +4,6 @@
       <mapping pattern="TestStopPurchaseService" type="AUTO_DETECTED" />
       <mapping ext="vm" type="HTML" />
       <mapping ext="vue" type="HTML" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="frozen" type="PLAIN_TEXT" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="" approved="true" type="PLAIN_TEXT" />
@@ -26,6 +23,9 @@
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
