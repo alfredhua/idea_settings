@@ -6,6 +6,12 @@
         <option name="path" value="$USER_HOME$/software/soft/tomcate" />
         <option name="version" value="8.5.61.0" />
       </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/8.5.61" />
+        <option name="number" value="1" />
+        <option name="path" value="$USER_HOME$/software/soft/tomcate" />
+        <option name="version" value="8.5.61.0" />
+      </TomcatInfo>
     </option>
   </component>
 </application>
