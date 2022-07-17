@@ -2,9 +2,9 @@
   <component name="ServerConfiguration">
     <option name="tomcatInfos">
       <TomcatInfo>
-        <option name="name" value="Apache Tomcat/8.5.61" />
+        <option name="name" value="Apache Tomcat/8.5.81" />
         <option name="path" value="$USER_HOME$/software/soft/tomcate" />
-        <option name="version" value="8.5.61.0" />
+        <option name="version" value="8.5.81.0" />
       </TomcatInfo>
     </option>
   </component>
